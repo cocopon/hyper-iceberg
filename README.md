@@ -6,7 +6,7 @@
 
 
 # How to use
-Add `iceberg-hyper` to `plugins` in `~/.hyper.js`.
+T.B.D.
 
 
 [Iceberg]:https://cocopon.github.io/iceberg.vim/
