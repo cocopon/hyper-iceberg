@@ -1,6 +1,6 @@
 exports.decorateConfig = (config) => {
 	return Object.assign({}, config, {
-    backgroundColor: '#161821',
+		backgroundColor: '#161821',
 		borderColor: '#272c42',
 		colors: {
 			black: '#1e2132',
@@ -41,6 +41,6 @@ exports.decorateConfig = (config) => {
 			}
 		`,
 		cursorColor: '#c6c8d1',
-    foregroundColor: '#c6c8d1',
+		foregroundColor: '#c6c8d1',
 	});
 }
