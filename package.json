@@ -1,0 +1,8 @@
+{
+  "name": "hyper-iceberg",
+  "version": "0.1.0",
+	"keywords": ["hyper", "theme", "iceberg"],
+  "description": "Iceberg theme for Hyper",
+  "author": "cocopon",
+  "license": "MIT"
+}
