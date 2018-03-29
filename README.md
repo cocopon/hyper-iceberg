@@ -1,8 +1,8 @@
 # Iceberg for Hyper
 [Iceberg][], the dark blue color scheme originally for Vim, for [Hyper][].
 
-![tig](https://user-images.githubusercontent.com/602961/38096226-531f6044-33ad-11e8-92a9-21994909d159.png)
-![ansi-16-colors](https://user-images.githubusercontent.com/602961/38096242-5c9921be-33ad-11e8-83cb-087a65160e5d.png)
+![tig](https://user-images.githubusercontent.com/602961/38098998-66e4559c-33b4-11e8-89cb-850e6aaa5c77.png)
+![ansi-16-colors](https://user-images.githubusercontent.com/602961/38098997-66b75c18-33b4-11e8-9db4-366d3d6081d3.png)
 
 
 # How to use
