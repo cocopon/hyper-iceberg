@@ -1,8 +1,8 @@
 {
   "name": "hyper-iceberg",
-  "version": "0.1.0",
+  "version": "0.2.0",
 	"keywords": ["hyper", "theme", "iceberg"],
-  "description": "Iceberg theme for Hyper",
+  "description": "Dark blue color theme for Hyper",
   "author": "cocopon",
   "license": "MIT"
 }
