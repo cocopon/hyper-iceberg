@@ -1,4 +1,4 @@
-# Iceberg for Hyper
+# Iceberg for Hyper [![npm version](https://badge.fury.io/js/hyper-iceberg.svg)](https://badge.fury.io/js/hyper-iceberg)
 [Iceberg][], the dark blue color theme originally for Vim, for [Hyper][].
 
 ![tig](https://user-images.githubusercontent.com/602961/38098998-66e4559c-33b4-11e8-89cb-850e6aaa5c77.png)
