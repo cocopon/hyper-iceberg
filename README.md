@@ -6,7 +6,7 @@
 
 
 # How to use
-Add `iceberg-hyper` to `plugins` in `~/.hyper.js`.
+Add `hyper-iceberg` to `plugins` in `~/.hyper.js`.
 
 
 # Special thanks
